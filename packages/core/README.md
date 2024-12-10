@@ -1,4 +1,4 @@
-# Lockd Provider
+# Lockd
 
 The backend for Lockd auth service.
 
